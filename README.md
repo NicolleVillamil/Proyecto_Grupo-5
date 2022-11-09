@@ -1,5 +1,7 @@
 # Proyecto_Grupo-5
-Este es el proyecto del grupo 5 de Algoritmos.
+titulo="CALCULADORA DE MASA MOLECULAR".capitalize()
+print(titulo.title())
+print(titulo.center(50," "))
 Integrantes:
 Nicolle Villamil
 Nicole Chaparro
