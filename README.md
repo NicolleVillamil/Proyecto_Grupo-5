@@ -1,7 +1,8 @@
-<h1 align="center">Calculadora de masa molecular</h1>
+<h1 align="center">Calculadora de masa molecular</h1> 
+![MoleculeChemGIF](https://user-images.githubusercontent.com/114430962/200963219-b3c59c97-a2f9-417f-b723-be19047dc281.gif)
 
+¡Bienvenidos!🤗 a nuestra caluladora que te ayudara de manera rapida y sencilla calcular la masa molecular de los elementos que requieras.
 
-¡Bienvenidos!🤗 a nuestra caluladora que te ayudara de manera rapida y sencilla calcular la masa molecular de los elementos que requieras.![AbstractAtomGIF](https://user-images.githubusercontent.com/114430962/200963112-347f4f60-87be-47f2-8af1-72ec6f191094.gif)
 *Integrantes:*
 - **Nicolle Villamil**
 - **Nicole Chaparro**
