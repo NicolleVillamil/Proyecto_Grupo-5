@@ -1,6 +1,8 @@
 <h1 align="center">Calculadora de masa molecular</h1> 
 <align="center">¡Bienvenidos!🤗 a nuestra caluladora que te ayudara de manera rapida y sencilla calcular la masa molecular de los elementos que requieras.
-                      ![BrincandoButtercupGIF](https://user-images.githubusercontent.com/114430962/200965686-801543c3-839f-433d-9e15-515e0621004b.gif)
+                                 
+                                 ![BrincandoButtercupGIF (2)](https://user-images.githubusercontent.com/114430962/200965783-f0071824-0a5b-4fc7-9405-f414ef18e5a2.gif)
+
 
 *Integrantes:*
 - **Nicolle Villamil**
