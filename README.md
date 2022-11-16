@@ -8,4 +8,4 @@
  - **Nicole Chaparro**
  - **Mariana Romero** 
 
-<![image](https://user-images.githubusercontent.com/114431177/202320085-a8eac1bd-ed7c-44b9-aeee-0a777392d88f.png)>
+<![image](https://user-images.githubusercontent.com/114431177/202320213-dc186163-abfa-4105-a227-39138d88169c.png)>
