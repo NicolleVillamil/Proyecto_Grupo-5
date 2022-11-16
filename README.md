@@ -7,4 +7,5 @@
  - **Nicolle Villamil**
  - **Nicole Chaparro**
  - **Mariana Romero** 
-[image](https://user-images.githubusercontent.com/114431177/202319891-7caed58c-5de0-49aa-be4f-dd4b6a24ff00.png)
+
+<![image](https://user-images.githubusercontent.com/114431177/202320085-a8eac1bd-ed7c-44b9-aeee-0a777392d88f.png)>
