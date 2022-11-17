@@ -22,21 +22,21 @@ Con el aprendizaje recibido en la unidad de estudio hemos creado una calculadora
 
 
 La masa atómica es aquella que surge de la totalidad de masa de los protones y neutrones pertenecientes a un único átomo en estado de reposo. Dentro del Sistema Internacional, la unidad que permite calcularla y reflejarla es la masa atómica unificada (uma).
-# Por ejemplo:
-- Elemento=Fe (Hierro)
-- Masa atómica= 55,847 uma
-- Nº de Átomos= Un mol de átomos de Hierro pesa 55,847. Si queremos saber cual es el número de átomos en 2 moles manualmente sería 55,847*2= 111,694uma
+### Por ejemplo:
+- **Elemento**=Fe (Hierro)
+- **Masa atómica**= 55,847 uma
+- **Nº de Átomos**= Un mol de átomos de Hierro pesa 55,847. Si queremos saber cual es el número de átomos en 2 moles manualmente sería 55,847*2= 111,694uma
 
 
 
 ![image](https://user-images.githubusercontent.com/114431177/202321225-ff04e41d-44e3-4fa6-b443-b0c77956cbd7.png)
 
 
-**PYTHON:**
+#**PYTHON:**
 Python es un lenguaje de programación de alto nivel, orientado a objetos, con una semántica dinámica integrada, principalmente para el desarrollo web y de aplicaciones informáticas.
-**Paso 1:** El intérprete lee un código o instrucción Python. Luego verifica que la instrucción esté bien formateada, es decir, comprueba la sintaxis de cada línea. Si encuentra algún error, detiene inmediatamente la traducción y muestra un mensaje de error.
-**Paso 2:** Si no hay ningún error, es decir, si la instrucción o el código Python está bien formateado, el intérprete lo traduce a su forma equivalente en un lenguaje intermedio llamado «código Byte». Así, después de la ejecución exitosa de la escritura o el código Python, se traduce completamente en código Byte.
-**Paso 3:** El código del byte se envía a la Máquina Virtual Python, donde de nuevo se ejecuta el código del byte en PVM. Si se produce un error durante esta ejecución, ésta se detiene con un mensaje de error.
+- **Paso 1:** El intérprete lee un código o instrucción Python. Luego verifica que la instrucción esté bien formateada, es decir, comprueba la sintaxis de cada línea. Si encuentra algún error, detiene inmediatamente la traducción y muestra un mensaje de error.
+- **Paso 2:** Si no hay ningún error, es decir, si la instrucción o el código Python está bien formateado, el intérprete lo traduce a su forma equivalente en un lenguaje intermedio llamado «código Byte». Así, después de la ejecución exitosa de la escritura o el código Python, se traduce completamente en código Byte.
+- **Paso 3:** El código del byte se envía a la Máquina Virtual Python, donde de nuevo se ejecuta el código del byte en PVM. Si se produce un error durante esta ejecución, ésta se detiene con un mensaje de error.
 
 
 
