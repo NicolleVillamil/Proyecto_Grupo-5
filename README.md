@@ -32,7 +32,7 @@ La masa atómica es aquella que surge de la totalidad de masa de los protones y 
 ![image](https://user-images.githubusercontent.com/114431177/202321225-ff04e41d-44e3-4fa6-b443-b0c77956cbd7.png)
 
 
-#**PYTHON:**
+**PYTHON:**
 Python es un lenguaje de programación de alto nivel, orientado a objetos, con una semántica dinámica integrada, principalmente para el desarrollo web y de aplicaciones informáticas.
 - **Paso 1:** El intérprete lee un código o instrucción Python. Luego verifica que la instrucción esté bien formateada, es decir, comprueba la sintaxis de cada línea. Si encuentra algún error, detiene inmediatamente la traducción y muestra un mensaje de error.
 - **Paso 2:** Si no hay ningún error, es decir, si la instrucción o el código Python está bien formateado, el intérprete lo traduce a su forma equivalente en un lenguaje intermedio llamado «código Byte». Así, después de la ejecución exitosa de la escritura o el código Python, se traduce completamente en código Byte.
