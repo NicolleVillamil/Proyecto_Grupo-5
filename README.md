@@ -3,10 +3,7 @@
 
 <img align='left' src="https://definicion.de/wp-content/uploads/2011/09/moleculas.png" width="230">
 
-### *INTEGRANTES:*
- - **Nicolle Villamil**
- - **Nicole Chaparro**
- - **Mariana Romero** 
+ 
  
  
 
