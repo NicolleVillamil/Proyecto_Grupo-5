@@ -1,10 +1,10 @@
 <h1 align="center">Calculadora de masa atómica</h1> 
-<align="center">¡Bienvenidos!🤗 
+<align="center">¡Bienvenidos!🤗 A nuestra caluladora que te ayudará de manera rápida y sencilla calcular la masa atomica de los elementos que requieras.
 
 ### *INTEGRANTES:*
-- **Nicolle Villamil**
-- **Nicole Chaparro**
-- **Mariana Romero**
+ - **Nicolle Villamil**
+ - **Nicole Chaparro**
+ - **Mariana Romero**
  
 ![image](https://user-images.githubusercontent.com/114431177/202320213-dc186163-abfa-4105-a227-39138d88169c.png)
 
@@ -25,7 +25,7 @@ La masa atómica es aquella que surge de la totalidad de masa de los protones y 
 
 
 
-# **PYTHON:**
+# **_PYTHON_:**
 Python es un lenguaje de programación de alto nivel, orientado a objetos, con una semántica dinámica integrada, principalmente para el desarrollo web y de aplicaciones informáticas.
 - **Paso 1:** El intérprete lee un código o instrucción Python. Luego verifica que la instrucción esté bien formateada, es decir, comprueba la sintaxis de cada línea. Si encuentra algún error, detiene inmediatamente la traducción y muestra un mensaje de error.
 - **Paso 2:** Si no hay ningún error, es decir, si la instrucción o el código Python está bien formateado, el intérprete lo traduce a su forma equivalente en un lenguaje intermedio llamado «código Byte». Así, después de la ejecución exitosa de la escritura o el código Python, se traduce completamente en código Byte.
@@ -33,7 +33,7 @@ Python es un lenguaje de programación de alto nivel, orientado a objetos, con u
 
 
 
-## **
+### **_DICCIONARIO_:**
 
 Esta herramienta fue la más usada en nuestro proyecto porque un diccionario en Python es bastante simple. Empiezas al declarar una variable, luego usas el operador de asignación = al que le designaremos datos. El factor decisivo que lo convierte en diccionario es el uso de llaves {} para envolver los datos que asignamos. Cabe mencionar que, un diccionario es una estructura de datos para trabajar con colecciones de datos almacenados en pares de claves/valores. Los diccionarios se ordenan y son mutables. Pueden soportar cambios después de su creación, pero son estrictos acerca de entradas duplicadas. Todas las claves/valores deben ser únicos.
 Una vez que creaste un diccionario, puedes acceder a los elementos en él utilizando la clave para cada valor. 
@@ -41,7 +41,7 @@ Una vez que creaste un diccionario, puedes acceder a los elementos en él utiliz
 
 
 
-# Tkinter
+# **_Tkinter**
 Tkinter es una librería del lenguaje de programación Python y funciona para la creación y el desarrollo de aplicaciones de escritorio. Esta librería facilita el posicionamiento y desarrollo de una interfaz gráfica de escritorio con Python. Tkinter es el paquete estándar de Python para interactuar con Tk.
 De acuerdo con la documentación de Python, TK se describe a sí mismo como el único kit de herramientas para el desarrollo de una interfaz gráfica de usuario. 
 
