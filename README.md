@@ -25,7 +25,7 @@ La masa atómica es aquella que surge de la totalidad de masa de los protones y 
 
 
 
-# **_PYTHON_:**
+# **PYTHON:**
 Python es un lenguaje de programación de alto nivel, orientado a objetos, con una semántica dinámica integrada, principalmente para el desarrollo web y de aplicaciones informáticas.
 - **Paso 1:** El intérprete lee un código o instrucción Python. Luego verifica que la instrucción esté bien formateada, es decir, comprueba la sintaxis de cada línea. Si encuentra algún error, detiene inmediatamente la traducción y muestra un mensaje de error.
 - **Paso 2:** Si no hay ningún error, es decir, si la instrucción o el código Python está bien formateado, el intérprete lo traduce a su forma equivalente en un lenguaje intermedio llamado «código Byte». Así, después de la ejecución exitosa de la escritura o el código Python, se traduce completamente en código Byte.
@@ -41,7 +41,7 @@ Una vez que creaste un diccionario, puedes acceder a los elementos en él utiliz
 
 
 
-# **_Tkinter**
+# **Tkinter:**
 Tkinter es una librería del lenguaje de programación Python y funciona para la creación y el desarrollo de aplicaciones de escritorio. Esta librería facilita el posicionamiento y desarrollo de una interfaz gráfica de escritorio con Python. Tkinter es el paquete estándar de Python para interactuar con Tk.
 De acuerdo con la documentación de Python, TK se describe a sí mismo como el único kit de herramientas para el desarrollo de una interfaz gráfica de usuario. 
 
