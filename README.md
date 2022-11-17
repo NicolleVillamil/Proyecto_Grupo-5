@@ -21,7 +21,7 @@ Con el aprendizaje recibido en la unidad de estudio hemos creado una calculadora
 ![image](https://user-images.githubusercontent.com/114431177/202320516-7650ebd6-b355-49eb-a061-215799b44e92.png)
 
 La masa atómica es aquella que surge de la totalidad de masa de los protones y neutrones pertenecientes a un único átomo en estado de reposo. Dentro del Sistema Internacional, la unidad que permite calcularla y reflejarla es la masa atómica unificada (uma).
-Por ejemplo: 
-*Elemento*= Fe (Hierro)
-*Masa atómica*= 55,847 uma
-*N.º de Átomos*= Un mol de átomos de Hierro pesa 55,847. Si queremos saber cual es el número de átomos en 2 moles manualmente sería 55,847*2= 111,694uma
+### *Por ejemplo:*
+-**Elemento= Fe (Hierro)**
+-**Masa atómica= 55,847 uma**
+-**Nº de Átomos= Un mol de átomos de Hierro pesa 55,847. Si queremos saber cual es el número de átomos en 2 moles manualmente sería 55,847*2= 111,694uma**
