@@ -39,8 +39,7 @@ Python es un lenguaje de programación de alto nivel, orientado a objetos, con u
 - **Paso 3:** El código del byte se envía a la Máquina Virtual Python, donde de nuevo se ejecuta el código del byte en PVM. Si se produce un error durante esta ejecución, ésta se detiene con un mensaje de error.
 
 
-
-![image](https://user-images.githubusercontent.com/114431177/202321431-424866f4-7446-405e-9646-d1874303f16c.png)
+### ![image](https://user-images.githubusercontent.com/114431177/202321431-424866f4-7446-405e-9646-d1874303f16c.png)
 
 
 Esta herramienta fue la más usada en nuestro proyecto porque un diccionario en Python es bastante simple. Empiezas al declarar una variable, luego usas el operador de asignación = al que le designaremos datos. El factor decisivo que lo convierte en diccionario es el uso de llaves {} para envolver los datos que asignamos. Cabe mencionar que, un diccionario es una estructura de datos para trabajar con colecciones de datos almacenados en pares de claves/valores. Los diccionarios se ordenan y son mutables. Pueden soportar cambios después de su creación, pero son estrictos acerca de entradas duplicadas. Todas las claves/valores deben ser únicos.
