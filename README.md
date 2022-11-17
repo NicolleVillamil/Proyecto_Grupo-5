@@ -1,10 +1,10 @@
 <h1 align="center">Calculadora de masa atómica</h1> 
-<align="center">¡Bienvenidos!🤗 A nuestra caluladora que te ayudará de manera rápida y sencilla calcular la masa atomica de los elementos que requieras.
+<align="center">¡Bienvenidos!🤗 
 
 ### *INTEGRANTES:*
- - **Nicolle Villamil**
- - **Nicole Chaparro**
- - **Mariana Romero**
+- **Nicolle Villamil**
+- **Nicole Chaparro**
+- **Mariana Romero**
  
 ![image](https://user-images.githubusercontent.com/114431177/202320213-dc186163-abfa-4105-a227-39138d88169c.png)
 
